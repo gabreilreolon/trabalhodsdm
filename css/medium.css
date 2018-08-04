@@ -1,0 +1,44 @@
+body {
+	background-image: url("http://www.portoalegre.travel/upload/b/120/1206624_tech-wallpaper-4k.jpg");
+	padding: 0px;
+	margin: 0px;
+}
+.div1 {
+	position: relative;
+	width: 1000px;
+	margin: 0 auto;
+	height: 500px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.h1 {
+	text-align: center;
+	font-family:  sans-serif;
+	color: white;	
+}
+
